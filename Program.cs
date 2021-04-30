@@ -15,7 +15,6 @@ namespace ProyectoFinal
             Console.Write(Call.LoanTable());
         }
     }
-
     class Loans
     {
         //Constructor
